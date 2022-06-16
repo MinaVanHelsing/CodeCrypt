@@ -1,0 +1,127 @@
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.deps.json
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.json
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.dev.json
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.dll
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csprojAssemblyReference.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CoreCompileInputs.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfoInputs.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfo.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.input.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.output.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorCoreGenerate.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cache
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CopyComplete
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Results.g.cshtml.cs
+C:\Users\A547750\Documents\Visual Studio 2017\Projects\WindowsProjects\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.deps.json
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.json
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.dev.json
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.dll
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csprojAssemblyReference.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfoInputs.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfo.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.input.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.output.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorCoreGenerate.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Results.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cache
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cs
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\Amina\Documents\Visual Studio 2017\Projects\WebApplications\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CopyComplete
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.deps.json
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.json
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.runtimeconfig.dev.json
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.dll
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\bin\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.AssemblyReference.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfoInputs.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.AssemblyInfo.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CoreCompileInputs.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorAssemblyInfo.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.input.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.TagHelpers.output.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorCoreGenerate.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Books\Results.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.RazorTargetAssemblyInfo.cs
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.Views.pdb
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.dll
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.pdb
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.genruntimeconfig.cache
+C:\Users\Extrapreneur Laptop\Documents\Visual Studio 2022\Projects\BookDepository\BookDepository\BookDepository\obj\Debug\netcoreapp2.1\BookDepository.csproj.CopyComplete
